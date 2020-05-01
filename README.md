@@ -1,2 +1,3 @@
 # hello-word
-u know what it is don't act like u don't
+
+Là pour apprendre, bientôt je rentre dans le vif.
